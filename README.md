@@ -2,6 +2,7 @@
 ## Climate Label Study
 
 - **Phase 1:** Scraping ingredients from recipe cards
-- **Phase 2:** Calculating GHG emissions
-- **Phase 3:** Defining the threshold for GHG emissions
-- **Phase 4:** Future analyses for the study
+- **Phase 2:** Cleaning dataset and converting quantities with units
+- **Phase 3:** Calculating GHG emissions
+- **Phase 4:** Defining the threshold for GHG emissions
+- **Phase 5:** Future analyses for the study
