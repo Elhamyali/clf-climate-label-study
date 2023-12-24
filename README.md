@@ -8,7 +8,7 @@ Phase 1 of the Climate Label Study focuses on the meticulous task of extracting 
 
 **Objective**
 
-The primary objective of Phase 1 is to develop and execute a data extraction strategy that efficiently scrapes detailed information about ingredients from recipe cards. This information helps define the composition of meals served over four weeks at the university's dining facilities, and serves as the foundation for calculating the Greenhouse Gas Emissions (GHGE) of ingredients and meals.
+The primary objective of Phase 1 is to develop and execute a data extraction strategy that efficiently scrapes detailed information about ingredients from recipe cards. This information helps define the composition of meals served over four weeks at the university's dining sites, and serves as the foundation for calculating the Greenhouse Gas Emissions (GHGE) of ingredients and meals.
 
 **Methodology**
 
@@ -25,13 +25,10 @@ The deliverable from Phase 1 is an Excel sheet that tabulates the extracted data
 
 ## Next Steps (Phases 2-5)
 
-- **Phase 2:** Cleaning dataset and converting quantities with units
-Focuses on cleaning the extracted dataset and converting the various quantities and units into a standardized format.
+- **Phase 2:** Cleaning the extracted dataset and converting the various quantities and units into a standardized format.
 
-- **Phase 3:** Calculating GHG emissions
-Involves calculating the GHG emissions associated with each ingredient, providing a quantifiable measure of environmental impact.
+- **Phase 3:** Calculating GHG emissions associated with each ingredient, providing a quantifiable measure of environmental impact.
 
-- **Phase 4:** Defining the threshold for GHG emissions
-Defines a threshold for GHG emissions, which will evaluate and label the climate impact of different meals through stoplight colors.
+- **Phase 4:** Defining the threshold for GHG emissions, which will evaluate and label the climate impact of different meals through stoplight colors.
 
 - **Phase 5:** Future analyses for the study that uses the data gathered and processed in the earlier phases to draw meaningful conclusions and insights relevant to the Climate Label Study.
