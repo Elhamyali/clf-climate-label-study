@@ -4,7 +4,7 @@
 
 **Overview**
 
-Phase 1 of the Climate Label Study focuses on extracting ingredients from recipe cards used in two dining halls at Johns Hopkins University. This phase lays the foundation for subsequent analysis and research activities aimed at listing the climate impact of food choices to students, specifically in terms of greenhouse gas (GHG) emissions.
+Phase 1 of the Climate Label Study extracts ingredients from recipe cards used in two dining halls at Johns Hopkins University. This phase supports subsequent analysis and research activities such as labeling the climate impact of food choices into cards in terms of greenhouse gas (GHG) emissions and presenting them to students.
 
 **Objective**
 
