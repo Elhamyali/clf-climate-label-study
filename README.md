@@ -32,7 +32,6 @@ Focuses on cleaning the extracted dataset and converting the various quantities 
 Involves calculating the GHG emissions associated with each ingredient, providing a quantifiable measure of environmental impact.
 
 - **Phase 4:** Defining the threshold for GHG emissions
-Defines a threshold for GHG emissions, which will evaluate and label the climate impact of different meals through stop light colors.
+Defines a threshold for GHG emissions, which will evaluate and label the climate impact of different meals through stoplight colors.
 
-- **Phase 5:** Future analyses for the study
-Encompasses future analyses that use the data gathered and processed in the earlier phases to draw meaningful conclusions and insights relevant to the Climate Label Study.
+- **Phase 5:** Future analyses for the study that uses the data gathered and processed in the earlier phases to draw meaningful conclusions and insights relevant to the Climate Label Study.
